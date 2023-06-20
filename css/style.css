@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background:black;
+}
+
+.board{
+    width: 675px;
+    height: 670px;
+   border: 30px solid #703311;
+ margin: 20px;
+ left: 25%;
+ position: absolute;
+ border-radius: 50px;
+
+
+
+}
+.board .a{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    float: left;
+    background-color: #703311;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+   
+}
+.board .b{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    float: left;
+    background: #F5DFBE;
+ 
+   
+}
+

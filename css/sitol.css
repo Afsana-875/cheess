@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+        width: 370px;
+    height: 300px;
+    background: teal;
+    border: 5px solid bisque;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    }
+    .one{
+        width: 150px;
+        height: 80px;
+        background: tomato;
+        top: 0;
+        left: 0;
+        position: absolute;
+        z-index: 1;
+    }
+    .two{
+        width: 150px;
+        height: 80px;
+        background: rgb(31, 22, 21);
+        top: 20px;
+        left: 20px;
+        position: absolute;
+        z-index: 2;
+    }
+    .t-1{
+        width: 150px;
+        height: 80px;
+        background: rgb(185, 139, 134);
+        top: 40px;
+        left: 40px;
+        position: absolute;
+        z-index: 3;
+    }
+    .t-2{
+        width: 150px;
+        height: 80px;
+        background: rgb(228, 168, 162);
+        top: 60px;
+        left: 60px;
+        position: absolute;
+        z-index: 4;
+    }
+    .t-3{
+        width: 150px;
+        height: 80px;
+        background: rgb(202, 114, 104);
+        top: 80px;
+        left: 80px;
+        position: absolute;
+        z-index: 5;
+    }
+    .t-4{
+        width: 150px;
+        height: 80px;
+        background: rgb(216, 33, 13);
+        top: 100px;
+        left: 100px;
+        position: absolute;
+        z-index: 6;
+    }
+    .t-5{
+        width: 150px;
+        height: 80px;
+        background: rgb(21, 177, 0);
+        top: 120px;
+        left: 120px;
+        position: absolute;
+        z-index: 7;
+    }
+    .t-6{
+        width: 150px;
+        height: 80px;
+        background: rgb(116, 180, 108);
+        top: 140px;
+        left: 140px;
+        position: absolute;
+        z-index: 8;
+    }
+    .t-7{
+        width: 150px;
+        height: 80px;
+        background: rgb(0, 51, 109);
+        top: 160px;
+        left: 160px;
+        position: absolute;
+        z-index: 9;
+    }
+    .t-8{
+        width: 150px;
+        height: 80px;
+        background: rgb(156, 0, 177);
+        top: 180px;
+        left: 180px;
+        position: absolute;
+        z-index: 1;
+    
+    }
+    .t-9{
+        width: 150px;
+        height: 80px;
+        background: rgb(0, 106, 177);
+        top: 200px;
+        left: 200px;
+        position: absolute;
+        z-index: 2;
+    }
+    .t-10{
+        width: 150px;
+        height: 80px;
+        background: rgb(177, 0, 133);
+        top: 220px;
+        left: 220px;
+        position: absolute;
+        z-index: 3;
+    
+    }
+ 
